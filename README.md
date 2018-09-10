@@ -5,7 +5,7 @@ Andriod application app with all bonus features as well as base.
 
 ### App Walk-though
 
-<img src="C:\Users\senderp\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\LICEcap/AndroidApplication1" width=200><br>
+![andriodapplication1](https://user-images.githubusercontent.com/28710853/45271237-7b705c00-b473-11e8-8e78-e5fe9164017b.gif)
 
 
 ### Required User Stories
